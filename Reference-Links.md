@@ -71,6 +71,16 @@
 - Big O notation: https://www.bigocheatsheet.com/ 
 - API REST client tester in VS Code:  Extension for Thunder Client by Ranga Vadhineni
 
+## Helpful Sites Beginner Web Developers should know - from HowToGeek article
+- w3schools - https://www.w3schools.com/?utm_source=syndication
+- MDN Web Docs - https://developer.mozilla.org/en-US/?utm_source=syndication
+- freeCodeCamp - https://www.freecodecamp.org/?utm_source=syndication
+- Stack Overflow - https://stackoverflow.com/?utm_source=syndication
+- CSS-Tricks - https://css-tricks.com/?utm_source=syndication
+- Frontend Mentor - https://www.frontendmentor.io/?utm_source=syndication
+- The Odin Project - https://www.theodinproject.com/?utm_source=syndication
+
+
 ## API links:
 - Vending Machine: http://vending.us-east-1.elasticbeanstalk.com
 - DVD Library: http://dvd-library.us-east-1.elasticbeanstalk.com
