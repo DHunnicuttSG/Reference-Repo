@@ -20,7 +20,8 @@
 - Visual Studio Code: https://code.visualstudio.com/download
 
 ## Databases:
-- MySQL: https://dev.mysql.com/downloads/windows/installer/8.0.html 
+- MySQL: https://dev.mysql.com/downloads/windows/installer/8.0.html
+- SQLite viewer for VS Code extension: SQLite Viewer by Florian Klampfer 
 
 ## React: 
 - React.org: https://reactjs.org/
