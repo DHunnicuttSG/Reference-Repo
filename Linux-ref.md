@@ -78,3 +78,4 @@ clear: Clears the terminal screen.
 history: Shows a history of previously executed commands.  
 exit: Closes the terminal.  
 history > history.txt: pipes the results of the command, history to the file history.txt.  
+use history to get a list of command then use !# to execute previous command wher # is the line number of the command.  
