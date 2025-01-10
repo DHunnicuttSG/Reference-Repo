@@ -77,3 +77,4 @@ man ls: Shows the manual page for the ls command.
 clear: Clears the terminal screen.  
 history: Shows a history of previously executed commands.  
 exit: Closes the terminal.  
+history > history.txt: pipes the results of the command, history to the file history.txt.  
