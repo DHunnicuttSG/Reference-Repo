@@ -1,6 +1,6 @@
 Here's a list of basic Linux commands, categorized for easier understanding:  
 
-##Navigation and File System:  
+## Navigation and File System:  
 
 pwd (print working directory): Shows your current directory.  
 cd (change directory): Changes the current directory.  
@@ -44,7 +44,7 @@ grep -i "pattern" file_name: Case-insensitive search.
 sed (stream editor): Performs text transformations on files. (More advanced)  
 awk: Another powerful text processing tool. (More advanced)  
 
-##System Information and Processes:  
+## System Information and Processes:  
 
 uname: Displays system information.  
 hostname: Displays the hostname of the system.  
@@ -59,18 +59,18 @@ kill process_id: Kills a process with the given ID.
 df (disk free): Shows disk space usage.  
 du (disk usage): Shows disk usage of files and directories.  
 
-##Permissions:  
+## Permissions:  
 
 chmod (change mode): Changes file permissions.  
 chown (change owner): Changes file ownership.  
 
-##Networking:  
+## Networking:  
 
 ping: Tests network connectivity to a host.  
 ifconfig or ip a: Shows network interface configuration.  
 netstat or ss: Shows network connections, routing tables, and interface statistics.  
 
-##Other Useful Commands:  
+## Other Useful Commands:  
 
 man (manual): Displays the manual page for a command.  
 man ls: Shows the manual page for the ls command.  
