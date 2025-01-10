@@ -1,4 +1,4 @@
-Here's a list of basic Linux commands, categorized for easier understanding:  
+# Here's a list of basic Linux commands
 
 ## Navigation and File System:  
 
