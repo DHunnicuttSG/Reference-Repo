@@ -12,6 +12,10 @@
 - JPA: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories 
 - JPA-Buddy: https://www.jpa-buddy.com/ 
 
+## Linux
+- Killercoda Interactive Environments: https://killercoda.com/pawelpiwosz/course/linuxFundamentals
+- Linux Commands: Cheat Sheet: http://www.linux-admins.net/2011/01/vi-cheat-sheet.html
+
 ## Java Script:
 - jQuery: http://jquery.com/
 
