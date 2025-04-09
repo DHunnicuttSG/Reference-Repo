@@ -84,6 +84,7 @@
 - CSS-Tricks - https://css-tricks.com/?utm_source=syndication
 - Frontend Mentor - https://www.frontendmentor.io/?utm_source=syndication
 - The Odin Project - https://www.theodinproject.com/?utm_source=syndication
+- markDown Cheat sheet - https://www.markdownguide.org/cheat-sheet/
 
 
 ## API links:
@@ -91,6 +92,3 @@
 - DVD Library: http://dvd-library.us-east-1.elasticbeanstalk.com
 - Contact List: http://contactlist.us-east-1.elasticbeanstalk.com/
 - Random-things: http://random-things.us-east-1.elasticbeanstalk.com/
-
-
-
