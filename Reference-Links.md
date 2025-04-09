@@ -84,7 +84,7 @@
 - CSS-Tricks - https://css-tricks.com/?utm_source=syndication
 - Frontend Mentor - https://www.frontendmentor.io/?utm_source=syndication
 - The Odin Project - https://www.theodinproject.com/?utm_source=syndication
-- markDown Cheat sheet - https://www.markdownguide.org/cheat-sheet/
+- MarkDown Cheat sheet - https://www.markdownguide.org/cheat-sheet/
 
 
 ## API links:
