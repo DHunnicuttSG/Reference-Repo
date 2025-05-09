@@ -49,6 +49,7 @@
 - Integrate Chart.js using React with Data from API: https://www.youtube.com/watch?v=yOousFGfmZc 
 		
 ## GitHub:
+- GitHub Docs: https://git-scm.com/docs
 - GitKraken link: https://www.gitkraken.com/ 
 - Git Bash: https://git-scm.com/downloads 
 - Learning Git through a game:  https://Ohmygit.org 
