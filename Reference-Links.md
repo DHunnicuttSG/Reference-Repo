@@ -50,6 +50,7 @@
 		
 ## GitHub:
 - GitHub Docs: https://git-scm.com/docs
+- Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
 - GitKraken link: https://www.gitkraken.com/ 
 - Git Bash: https://git-scm.com/downloads 
 - Learning Git through a game:  https://Ohmygit.org 
