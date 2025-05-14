@@ -95,3 +95,9 @@
 - DVD Library: http://dvd-library.us-east-1.elasticbeanstalk.com
 - Contact List: http://contactlist.us-east-1.elasticbeanstalk.com/
 - Random-things: http://random-things.us-east-1.elasticbeanstalk.com/
+
+## SRE links:
+- Jenkins: https://jenkins.computerlab.online/
+- Grafana: https://grafana.computerlab.online/dashboards
+- Orderbook: https://orderbook.computerlab.online/
+- Orderbook-API: https://orderbook-api.computerlab.online/docs#
