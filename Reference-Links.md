@@ -78,6 +78,7 @@
 - HTTP response status codes: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status 
 - Big O notation: https://www.bigocheatsheet.com/ 
 - API REST client tester in VS Code:  Extension for Thunder Client by Ranga Vadhineni
+- Create flowcharts: https://www.lucidchart.com/pages
 
 ## Helpful Sites Beginner Web Developers should know - from HowToGeek article
 - w3schools - https://www.w3schools.com/?utm_source=syndication
