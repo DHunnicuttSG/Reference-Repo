@@ -60,6 +60,10 @@
 ## Python:
 - Python: https://www.python.org/downloads/ 
 
+## C++:
+- C++ in 31 hours: https://www.youtube.com/watch?v=8jLOx1hD3_o
+- Codecademy: https://www.codecademy.com/learn/learn-c-plus-plus
+
 ## Interview Prep:
 - Tricky Interview Questions: https://levelup.gitconnected.com/tricky-java-interview-questions-cfc546fd03ab
 
