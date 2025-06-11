@@ -23,7 +23,7 @@
 - Visual Studio Code - Text Editor: https://code.visualstudio.com/download
 - NetBeans IDE: https://www.oracle.com/technetwork/java/javase/downloads/index.html
 - IntelliJ IDE: https://www.jetbrains.com/idea/download/#section=windows
-- Visual Studio IDE - Free Community version: https://visualstudio.microsoft.com/downloads/
+- Visual Studio IDE: https://visualstudio.microsoft.com/downloads/
 
 ## Databases:
 - MySQL: https://dev.mysql.com/downloads/windows/installer/8.0.html
