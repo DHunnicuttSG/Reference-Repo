@@ -3,8 +3,6 @@
 ## Java
 - Java Docs: https://docs.oracle.com/en/java/javase/11/docs/api/index.html 
 - Java: https://www.oracle.com/technetwork/java/javase/downloads/index.html
-- NetBeans: https://www.oracle.com/technetwork/java/javase/downloads/index.html
-- IntelliJ: https://www.jetbrains.com/idea/download/#section=windows
 - Maven: http://maven.apache.org/
 - Spring Initializer:  https://start.spring.io/ 
 - Spring: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#spring-web
@@ -20,9 +18,12 @@
 ## Java Script:
 - jQuery: http://jquery.com/
 
-## Text Editors:
-- Atom: https://atom.io/
-- Visual Studio Code: https://code.visualstudio.com/download
+## Editors/IDEs:
+- Atom - Text Editor: https://atom.io/
+- Visual Studio Code - Text Editor: https://code.visualstudio.com/download
+- NetBeans IDE: https://www.oracle.com/technetwork/java/javase/downloads/index.html
+- IntelliJ IDE: https://www.jetbrains.com/idea/download/#section=windows
+- Visual Studio IDE - Free Community version: https://visualstudio.microsoft.com/downloads/
 
 ## Databases:
 - MySQL: https://dev.mysql.com/downloads/windows/installer/8.0.html
