@@ -112,7 +112,7 @@ Change a column name in a table:
     RENAME COLUMN pub_name TO publisher_name
 ```
 
-Remove colum from a table:
+Remove column from a table:
 ```
     Alter table Book
         Drop numPages;
