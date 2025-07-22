@@ -32,6 +32,7 @@
 ## React: 
 - React.org: https://reactjs.org/
 - Next.js https://nextjs.org/
+- Vite.dev https://vite.dev/guide/ 
 - Handling input forms in React: https://reactjs.org/docs/forms.html 
 - Thinking in React: https://reactjs.org/docs/thinking-in-react.html  
 - React easy-peasy intro video: https://www.youtube.com/watch?v=cSUt8b2qapM
