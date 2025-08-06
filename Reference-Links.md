@@ -38,7 +38,6 @@
 - React easy-peasy intro video: https://www.youtube.com/watch?v=cSUt8b2qapM
 - React-icons: https://react-icons.github.io/react-icons/ 
 - Node.js download: https://nodejs.org/en/download 
-- Create React App: https://create-react-app.dev/ 
 - React Router: https://reactrouter.com/ 
 - Tailwinds CSS: https://tailwindcss.com/docs/guides/create-react-app 
 - Toastify – show messages to users: https://www.npmjs.com/package/react-toastify   
