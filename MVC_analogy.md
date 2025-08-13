@@ -14,22 +14,22 @@ The entire operation is a system designed to serve a customer's request (e.g., "
 * The kitchen's job is to fulfill the request and provide the final "product" (the cooked steak), without any concern for how it will be presented or who will receive it.
 
 ### 🧑‍🍳 The View: The Dining Room & Plating
-* The View is responsible for presenting the data to the user. This is the dining room and the waiter's presentation of the food.
+* The View is responsible for presenting the data to the user. This is the dining room and the server's presentation of the food.
 
 * The dining room is the visual display (e.g., a web page or a user interface).
 
-* The waiter receives the cooked steak from the kitchen and knows how to plate it beautifully and bring it to the correct table. The waiter's job is purely presentational; they don't do any of the cooking themselves. They simply display the final result from the Model.
+* The server receives the cooked steak from the kitchen and knows how to plate it beautifully and bring it to the correct table. The server's job is purely presentational; they don't do any of the cooking themselves. They simply display the final result from the Model.
 
-### 📝 The Controller: The Waiter & The Host
-* The Controller is the intermediary that handles user input and directs the flow of the application. This is the waiter and the host. They are the only ones who directly interact with the customer.
+### 📝 The Controller: The Server & The Host
+* The Controller is the intermediary that handles user input and directs the flow of the application. This is the server and the host. They are the only ones who directly interact with the customer.
 
-* A customer (the user) places an order ("I'd like the steak") with the waiter (the Controller).
+* A customer (the user) places an order ("I'd like the steak") with the server (the Controller).
 
-* The waiter (Controller) doesn't cook the food. Instead, they take the order and send it to the kitchen (the Model).
+* The server (Controller) doesn't cook the food. Instead, they take the order and send it to the kitchen (the Model).
 
-* Once the kitchen (Model) has prepared the food, the waiter (Controller) retrieves the finished dish.
+* Once the kitchen (Model) has prepared the food, the server (Controller) retrieves the finished dish.
 
-* The waiter (Controller) then instructs the dining room (the View) on how to present this dish to the customer.
+* The server (Controller) then instructs the dining room (the View) on how to present this dish to the customer.
 
 ### Summary
 
@@ -37,4 +37,4 @@ The entire operation is a system designed to serve a customer's request (e.g., "
 |---|---|---|
 |Model	|Kitchen & Pantry	|Manages data and business logic.|
 |View	|Dining Room	|Displays data to the user.|
-|Controller	|Waiter & Host	|Handles user input and coordinates the Model and View.|
+|Controller	|Server & Host	|Handles user input and coordinates the Model and View.|
