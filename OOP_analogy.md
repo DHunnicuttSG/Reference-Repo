@@ -13,8 +13,79 @@ Polymorphism means "many forms." It allows objects to be treated as a common typ
 Abstraction is the process of hiding complex implementation details and showing only the necessary features of an object. The drive-thru menu board is a perfect example of abstraction. It shows you appealing pictures and names of meals (e.g., "The Classic Combo") without a single detail about how the food is sourced, prepared, or cooked. The menu abstracts away the complexity of the kitchen and presents a simple, high-level interface that allows you to make a choice. You only interact with the essential information you need to place your order.
 
 
+## Composition Examples:
 
+In Object-Oriented Programming, composition means building complex objects by combining simpler ones, rather than relying only on inheritance.
+Think of a DriveThruRestaurant object:  
+A drive-thru restaurant is composed of several parts, each of which is its own class:
 
+Menu (represents food options)  
+OrderSystem (takes and manages orders)  
+PaymentProcessor (handles payments)  
+Kitchen (prepares the food)  
+DriveThruLane (manages cars in line)  
 
+Instead of making DriveThruRestaurant inherit from Kitchen or Menu (which wouldn’t make sense), we say:
+👉 A DriveThruRestaurant has a Kitchen, Menu, OrderSystem, etc.
 
+Code Analogy in Java
+```java
+class Menu {
+    void showItems() {
+        System.out.println("Burgers, Fries, Shakes...");
+    }
+}
 
+class OrderSystem {
+    void takeOrder() {
+        System.out.println("Taking order...");
+    }
+}
+
+class PaymentProcessor {
+    void processPayment() {
+        System.out.println("Processing payment...");
+    }
+}
+
+class Kitchen {
+    void prepareFood() {
+        System.out.println("Cooking food...");
+    }
+}
+
+class DriveThruRestaurant {
+    private Menu menu;
+    private OrderSystem orderSystem;
+    private PaymentProcessor paymentProcessor;
+    private Kitchen kitchen;
+
+    // Composition: DriveThruRestaurant is made of these parts
+    public DriveThruRestaurant() {
+        this.menu = new Menu();
+        this.orderSystem = new OrderSystem();
+        this.paymentProcessor = new PaymentProcessor();
+        this.kitchen = new Kitchen();
+    }
+
+    public void serveCustomer() {
+        menu.showItems();
+        orderSystem.takeOrder();
+        paymentProcessor.processPayment();
+        kitchen.prepareFood();
+        System.out.println("Order ready! Handing food through the window.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        DriveThruRestaurant restaurant = new DriveThruRestaurant();
+        restaurant.serveCustomer();
+    }
+}
+```
+
+* Key Takeaway
+
+Inheritance = "is-a" (e.g., Cheeseburger is a MenuItem).  
+Composition = "has-a" (e.g., DriveThruRestaurant has a Menu, has a Kitchen).
