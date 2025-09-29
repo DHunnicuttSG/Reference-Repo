@@ -1,6 +1,8 @@
+```mermaid
 graph TD
-    A[Start] --> B{Decision?}
-    B -->|Yes| C[Do something]
-    B -->|No| D[Do something else]
+    A[Start] --> B{File exists?}
+    B -->|Yes| D[Process File]
+    B -->|No| C[File Not Found]
     C --> E[End]
     D --> E[End]
+```
