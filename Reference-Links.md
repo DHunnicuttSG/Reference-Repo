@@ -45,7 +45,6 @@
 - ChartJs: ChartJs for adding interactive charts to your app. https://www.chartjs.org/docs/latest/ 
 
 - And... https://www.npmjs.com/package/react-chartjs-2 
-- Install hot loader from command line: npm install –save-dev react-hot-loader
 - Beginning ChartJS: https://www.youtube.com/watch?v=RF57yDglDfE
 - Integrate Chart.js using React with Data from API: https://www.youtube.com/watch?v=yOousFGfmZc 
 		
