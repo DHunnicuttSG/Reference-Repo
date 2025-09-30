@@ -72,6 +72,11 @@
 - Bootstrap 4 class Cheat Sheet: https://hackerthemes.com/bootstrap-cheatsheet/  
 - Getting started with Bootstrap: https://getbootstrap.com/docs/4.3/getting-started/introduction/ 
 
+## DevOps
+- CronTab Guru: https://crontab.guru/#*/1_*_*_*_*  
+- DevOps Labs: https://kodekloud.com/free-labs/devops
+- DevOps Labs: https://sadservers.com/  
+
 ## Misc. 
 - Postman: https://www.getpostman.com/  
 - Fix messaging system: https://www.onixs.biz/fix-dictionary/4.4/tagNum_35.html  
@@ -84,9 +89,6 @@
 - API REST client tester in VS Code:  Extension for Thunder Client by Ranga Vadhineni  
 - Create flowcharts: https://www.lucidchart.com/pages  
 - Ascii Text Art: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Contacts  
-- CronTab Guru: https://crontab.guru/#*/1_*_*_*_*  
-- DevOps Labs: https://kodekloud.com/free-labs/devops
-- DevOps Labs: https://sadservers.com/
 
 ## Helpful Sites Beginner Web Developers should know - from HowToGeek article
 - w3schools - https://www.w3schools.com/?utm_source=syndication  
