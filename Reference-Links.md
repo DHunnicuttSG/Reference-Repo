@@ -85,6 +85,7 @@
 - API REST client tester in VS Code:  Extension for Thunder Client by Ranga Vadhineni
 - Create flowcharts: https://www.lucidchart.com/pages
 - Ascii Text Art: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Contacts
+- CronTab Guru: https://crontab.guru/#*/1_*_*_*_*
 
 ## Helpful Sites Beginner Web Developers should know - from HowToGeek article
 - w3schools - https://www.w3schools.com/?utm_source=syndication
