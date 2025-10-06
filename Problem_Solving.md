@@ -31,6 +31,7 @@ Here’s the best structured approach:
 
 ## **3. Talk Through Your Thought Process**
 
+* Be Creative
 * Narrate your thinking clearly and calmly.
 * Even if you’re unsure, explaining your logic gives them insight into your reasoning ability.
 
@@ -62,6 +63,7 @@ Here’s the best structured approach:
 
 ## **6. Summarize Your Answer**
 
+* Communication is key
 * After walking through the reasoning, recap:
 
   * Your key assumptions.
@@ -95,6 +97,3 @@ Here’s the best structured approach:
 
 > 1️⃣ Restate → 2️⃣ Clarify → 3️⃣ Break down → 4️⃣ Estimate → 5️⃣ Compute → 6️⃣ Summarize → 7️⃣ Reflect
 
----
-
-Would you like me to include a few **sample brain teaser questions with model step-by-step answers** (like “How many gas stations are in New York City?” or “Why are manhole covers round?”) so you can teach students how to apply this framework in practice?
