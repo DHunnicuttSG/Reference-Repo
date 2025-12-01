@@ -57,6 +57,16 @@
 - Git Branching flows: https://youtu.be/gW6dFpTMk8s  
 - Learn Git Branching: https://learngitbranching.js.org/  
 
+## Go:
+- Tour of Go: https://go.dev/tour/  
+- Effective Go: https://go.dev/doc/effective_go  
+- Go by Example: https://gobyexample.com/  
+- Concurrency in Go: https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/  
+- Go Web Examples: https://gowebexamples.com/
+- Chi Router: https://github.com/go-chi/chi
+- Testing in Go: https://go.dev/doc/tutorial/add-a-test
+- 
+
 ## Python:
 - Python: https://www.python.org/downloads/  
 
