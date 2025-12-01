@@ -64,8 +64,7 @@
 - Concurrency in Go: https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/  
 - Go Web Examples: https://gowebexamples.com/
 - Chi Router: https://github.com/go-chi/chi
-- Testing in Go: https://go.dev/doc/tutorial/add-a-test
-- 
+- Testing in Go: https://go.dev/doc/tutorial/add-a-test  
 
 ## Python:
 - Python: https://www.python.org/downloads/  
