@@ -122,4 +122,5 @@
 - Grafana: https://grafana.computerlab.online/dashboards
 - Orderbook: https://orderbook.computerlab.online/
 - Orderbook-API: https://orderbook-api.computerlab.online/docs#
-- Incident Management: https://im.computerlab.online/
+- Incident Management: https://im.computerlab.online/  
+- SRE updated Info: https://www.reddit.com/r/sre/ 
