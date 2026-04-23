@@ -8,12 +8,23 @@
 - Spring: https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#spring-web  
 - CORS: https://spring.io/blog/2015/06/08/cors-support-in-spring-framework  
 - JPA: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories  
-- JPA-Buddy: https://www.jpa-buddy.com/  
+- JPA-Buddy: https://www.jpa-buddy.com/
+- Learn Java for free: https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/
 
-## Linux
+## Linux Resources
 - Killercoda Interactive Environments: https://killercoda.com/pawelpiwosz/course/linuxFundamentals  
 - Linux Commands: Cheat Sheet: http://www.linux-admins.net/2011/01/vi-cheat-sheet.html  
 - Linux Practice: https://sadservers.com/scenarios  
+- Digital Ocean - Linux Commands - https://www.digitalocean.com/community/tutorials/linux-commands  
+- Interview Bit - Linux Interview Questions - https://www.interviewbit.com/linux-interview-questions/  
+- Geeks for Geeks - Interview Guides - https://www.geeksforgeeks.org/linux-interview-questions/#beginnerlevel-linux-interview-questions  
+- Coursera – 15 Linux Interview Questions (With Sample Answers) - https://www.coursera.org/articles/linux-interview-questions  
+- YouTube – Top 10 Linux Job Interview Questions -  https://www.youtube.com/watch?v=xWF38MY3y6o  
+ 
+## Linux Hands-On Practice and Challenges
+- OverTheWire: Bandit A game-based learning platform where users solve challenges by applying Linux command-line skills, enhancing practical understanding. 🔗 overthewire.org/wargames/bandit/  
+- Command Line Fu A repository of useful and clever command-line snippets contributed by the community, great for learning and reference. 🔗 commandlinefu.com  
+- Linuxize Provides tutorials and articles on various Linux topics, including server administration, command-line tools, and scripting. 🔗 linuxize.com  
 
 ## Java Script:
 - jQuery: http://jquery.com/  
@@ -68,6 +79,7 @@
 
 ## Python:
 - Python: https://www.python.org/downloads/  
+- Intro to OOP in Pytyon: https://www.datacamp.com/courses/introduction-to-object-oriented-programming-in-python  
 
 ## C++:
 - C++ in 31 hours: https://www.youtube.com/watch?v=8jLOx1hD3_o  
